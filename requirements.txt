@@ -1,0 +1,10 @@
+setuptools 
+disutils 
+wheel 
+pyinstaller 
+requests 
+pycdlib  
+zipfile 
+py7zr 
+tarfile
+tqdm
